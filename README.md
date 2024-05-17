@@ -100,8 +100,8 @@ The SVM-based SMS spam detection model achieved an impressive accuracy of 99.1%.
 ## Sources
 
 * [SMS Spam Collection Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
-* Trivedi, Shrawan Kumar. "A study of machine learning classifiers for spam detection." BML Munjal University, Gurgaon, Haryana, India.[Link](https://ieeexplore.ieee.org/abstract/document/7743279/authors#authors)
-* Agboola, Olubodunde et al. "Spam Detection Using Machine Learning and Deep Learning." Ph.D. Dissertation.[Link](https://dl.acm.org/doi/book/10.5555/aai30276699)
+* Trivedi, Shrawan Kumar. "A study of machine learning classifiers for spam detection." BML Munjal University, Gurgaon, Haryana, India. [Link](https://ieeexplore.ieee.org/abstract/document/7743279/authors#authors)
+* Agboola, Olubodunde et al. "Spam Detection Using Machine Learning and Deep Learning." Ph.D. Dissertation. [Link](https://dl.acm.org/doi/book/10.5555/aai30276699)
 
 ## Acknowledgement
 
